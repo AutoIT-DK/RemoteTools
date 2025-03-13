@@ -4,10 +4,10 @@
 # The key is the VERSION line below—your startup script looks for it
 # to decide whether it’s a "new" version.
 
-VERSION="1.2.3"
+VERSION="1.2.4"
 
 # Example commands you want to run just once per version:
-echo "Hello, I'm a remote script, version $VERSION!"
+echo "Remote scripts initialized. Version $VERSION!"
 
 # Maybe you want to install something:
 # apt-get update && apt-get install -y somepackage
