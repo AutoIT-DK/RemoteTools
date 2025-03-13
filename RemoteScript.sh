@@ -4,7 +4,7 @@
 # The key is the VERSION line below—your startup script looks for it
 # to decide whether it’s a "new" version.
 
-VERSION="1.2.4"
+VERSION="1.2.5"
 
 # Example commands you want to run just once per version:
 echo "Remote scripts initialized. Version $VERSION!"
