@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VERSION="1.2.5"
+VERSION="1.2.6"
 
 echo "Remote scripts initialized. Version $VERSION!"
 
